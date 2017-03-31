@@ -1,0 +1,33 @@
+
+.Addassociate{
+padding-top: 30px;
+padding-bottom: 10px;
+display:flex;
+justify-content: center;
+}
+
+.associate_content{
+  font-size: 14px;
+  color:#8b8b8b;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  width: 113px;
+}
+.associate_name{
+  font-size: 14px;
+  color: #545454;
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.Pad{
+  padding-bottom: 20px;
+}
+.team_attributes{
+  padding-top: 5px;
+}
+
+.associate_image{
+  height: 113px !important;
+  width: 113px !important;
+}

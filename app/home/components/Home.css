@@ -1,0 +1,88 @@
+.home-container {
+  height: 100%;
+}
+.projects_img{
+width: 30px;
+height: 30px;
+margin-right: 15px;
+border: 0px;
+background: url('/../../assets/project-list.png') no-repeat;
+}
+.projects_img.hover{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/project-list-hover.png') no-repeat;
+}
+.showcase_img{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/project-showcase.png') no-repeat;
+}
+.showcase_img.hover{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/project-showcase-hover.png') no-repeat;
+}
+.invitee_img{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/invitee-list.png') no-repeat;
+}
+.invitee_img.hover{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/invitee-list-hover.png') no-repeat;
+}
+.demo_img{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/demo-list.png') no-repeat;
+}
+.demo_img.hover{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/demo-list-hover.png') no-repeat;
+}
+.users_img{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  background: url('/../../assets/user-management.png') no-repeat;
+}
+.users_img.hover{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border-width: 0px;
+  background: url('/../../assets/user-management-hover.png') no-repeat;
+}
+.about_img{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  background: url('/../../assets/about-us.png') no-repeat;
+}
+.about_img.hover{
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  border: 0px;
+  background: url('/../../assets/about-us-hover.png') no-repeat;
+}
+.clickable {
+  cursor: pointer;
+}

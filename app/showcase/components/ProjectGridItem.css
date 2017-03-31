@@ -1,0 +1,19 @@
+.card-title a{
+  color: #00306e;
+  min-height: 40px;
+  max-width: 90%;
+}
+.card-title a:hover{
+  color: #1e70bf;
+  min-height: 40px;
+  max-width: 90%;
+}
+.project-image {
+  height: 210px !important;
+}
+.project-description {
+  height: 145px !important;
+}
+.publication_title{
+    color: #00306e !important;
+}

@@ -1,0 +1,11 @@
+.customerpartnerheader{
+  font-size: 14px;
+  padding-top: 5px;
+  padding-left: inherit;
+}
+.organization-img{
+  width:80px;
+  height:80px;
+  border: 1px;
+  border-color: #dddddd;
+}

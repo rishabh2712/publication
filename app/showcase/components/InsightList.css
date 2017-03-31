@@ -1,0 +1,132 @@
+.insights{
+  padding-bottom: 80px;
+}
+
+.insights_wrapper{
+  margin-left: 10%!important;
+  margin-right: 10%!important;
+}
+
+.card_item{
+padding: 20px;
+margin-top: 15px;
+margin-left: 20px;
+background-color: white;
+-webkit-box-shadow: -1px 2px 5px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 2px 5px -3px rgba(0,0,0,0.75);
+box-shadow: -1px 2px 5px -3px rgba(0,0,0,0.75);
+}
+
+.insight-list{
+ overflow: auto;
+}
+
+@media (min-height: 584px) {
+.insight-image {
+  width:96.5% !important;
+  height: 500px !important;
+  overflow: auto;
+	}
+.verticalLine {
+  border-left: thin solid #c3c3c3;
+  height:500px;
+}
+.insight-list{
+ overflow: auto;
+ padding-right: 5px;
+ height:500px;
+ margin-right: -1rem;
+  }
+}
+@media (min-height: 718px) {
+.insight-image {
+  width:96.5% !important;
+  height: 636px !important;
+  overflow: auto;
+ }
+ .verticalLine {
+   border-left: thin solid #c3c3c3;
+   height:636px;
+ }
+ .insight-list{
+  overflow: auto;
+  padding-right: 5px;
+  margin-right: -1rem;
+  height:636px;
+  }
+}
+
+@media (min-height: 900px) {
+.insight-image {
+  width:96.5% !important;
+  height: 750px !important;
+  overflow: auto;
+ }
+ .verticalLine {
+   border-left: thin solid #c3c3c3;
+   height:750px;
+ }
+ .insight-list{
+  overflow: auto;
+  padding-right: 5px;
+  margin-right: -1rem;
+  height:750px;
+  }
+}
+.insight-list::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+.insight-list::-webkit-scrollbar
+{
+  width: 5px;
+  background-color: #F5F5F5;
+}
+
+.insight-list::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #C3C3C3;
+}
+.insight-image::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+.insight-image::-webkit-scrollbar
+{
+  width: 9px;
+  background-color: #F5F5F5;
+}
+
+.insight-image::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #C3C3C3;
+}
+.emptydiv{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emptydiv-content{
+  padding:20px 50px 20px 50px;
+  background-color:white;
+  color: #666;
+}
+
+.card_item.selected{
+border-right-style: solid;
+border-right-color: silver;
+border-right-width: 6px;
+border-color: #C3C3C3;
+}

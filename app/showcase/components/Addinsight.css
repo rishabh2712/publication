@@ -1,0 +1,27 @@
+.addwrapper{
+  background-color: #FFFFFF;
+  padding: 30px;
+  margin-left: 20%!important;
+  margin-right: 20%!important;
+  -webkit-box-shadow: 10px 11px 10px -7px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 11px 10px -7px rgba(0,0,0,0.75);
+  box-shadow: 10px 11px 10px -7px rgba(0,0,0,0.75);
+
+}
+
+.addinsight{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.savebuttons{
+  position: absolute;
+  bottom: 0px;
+}
+.add_insight_button{
+  padding-bottom: 35px;
+}
+.save_insight_button{
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+}

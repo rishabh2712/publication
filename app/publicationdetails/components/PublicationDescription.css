@@ -1,0 +1,20 @@
+.pub_description{
+padding-top: 30px;
+margin-bottom: 50px;
+}
+
+.Description{
+  margin: 1rem 0em;
+}
+.category{
+  font-weight: 400;
+  line-height: 1.2em;
+  color: rgba(0,0,0,.6);
+  width: inherit;
+  padding-bottom: 10px;
+}
+
+.like_label{
+  font-size: 10px;
+  padding-top: 5px;
+}

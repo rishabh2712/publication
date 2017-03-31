@@ -1,0 +1,31 @@
+.pub_media{
+  margin-bottom: 30px;
+}
+.fileheader{
+  font-size:14px;
+  color:#545454;
+}
+.mediaimage{
+  width: 113px;
+  height: 89px;
+  border-width: 1px;
+  border-color: #dddddd;
+  padding-right: 10px;
+
+}
+.download-button{
+  padding-left: 10px;
+
+}
+.upload_date{
+  padding-left: 10px;
+  width: inherit;
+}
+
+.videoUI{
+  margin-top: 60px;
+}
+
+.nofilepresent{
+  padding-left: 13px;
+}
